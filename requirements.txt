@@ -2,7 +2,7 @@
 langchain==0.1.12
 openai==1.14.1
 llama-index  # Automatically installs the latest version
-
+groq==0.9.0
 # Backend (API)
 fastapi==0.109.2
 uvicorn==0.27.0.post1
